@@ -1,2 +1,2 @@
-# youngfromseoul.github.io
-YOUNG-DEV
+# young-dev.com
+my blog
