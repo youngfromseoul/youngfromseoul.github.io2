@@ -19,7 +19,6 @@ locale                   : "ko"
 title                    : "시스템 엔지니어 개발일기"
 title_separator          : "-"
 name                     : "youngfromseoul"
-<<<<<<< HEAD
 description              : "3년차 시스템 엔지니어에서 개발자로 가는 일기장."
 url                      : "https://young-dev.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
