@@ -130,7 +130,7 @@ footer:
       # url: "https://www.facebook.com/jaden.brown.93"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/youngfromseoul"
+      # url: "https://github.com/youngfromseoul"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/young_dev"
+      # url: "https://instagram.com/young_dev"
 
 
 # Reading Files
