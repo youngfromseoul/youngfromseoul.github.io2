@@ -10,7 +10,7 @@ name                     : "youngfromseoul"
 description              : "3년차 시스템 엔지니어에서 개발자로 가는 일기장."
 url                      : "https://young-dev.com"
 baseurl                  : ""
-repository               : #"youngfromseoul/youngfromseoul.github.io"
+repository               : "youngfromseoul/youngfromseoul.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/main2.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hyoyoung Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "시스템 엔지니어에서 개발자로 이직을 위한 일기장."
+  location         : "Seoul"
+  email            : "youngfromseoul@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
