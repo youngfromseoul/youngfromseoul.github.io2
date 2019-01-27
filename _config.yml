@@ -10,9 +10,9 @@ name                     : "youngfromseoul"
 description              : "3년차 시스템 엔지니어에서 개발자로 가는 일기장."
 url                      : "https://young-dev.com"
 baseurl                  : ""
-repository               : "youngfromseoul/youngfromseoul.github.io"
+repository               : #"youngfromseoul/youngfromseoul.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/main.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
