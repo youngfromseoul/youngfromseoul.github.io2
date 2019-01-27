@@ -12,7 +12,7 @@ url                      : "https://young-dev.com"
 baseurl                  : ""
 repository               : #"youngfromseoul/youngfromseoul.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/main.png"
+logo                     : "/assets/images/main2.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
