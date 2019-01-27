@@ -282,15 +282,5 @@ defaults:
       share: true
       related: true
 
-# Google Search
-google:
-  search_engine_id:'014580277429174412591:lwvub4vaisi';
-  
-# Google Analytics
-  analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-1234567-8"
-    anonymize_ip: false # default
 
     
