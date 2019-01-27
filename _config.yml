@@ -3,7 +3,7 @@
 #remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-# Site Settings
+ Site Settings
 locale                   : "ko"
 title                    : "시스템 엔지니어 개발일기"
 title_separator          : "-"
