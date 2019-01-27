@@ -100,24 +100,24 @@ author:
   location         : "Seoul, Republic of Korea"
   email            : "youngfromseoul@gmail.com"
   links:
-    #- label: "Email"
-     # icon: "fas fa-fw fa-envelope-square"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:youngfromseoul@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://young-dev.com
+      # url: "https://young-dev.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://www.facebook.com/jaden.brown.93"
+      # url: "https://www.facebook.com/jaden.brown.93"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/youngfromseoul"
+      # url: "https://github.com/youngfromseoul"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/young_dev"
+      # url: "https://instagram.com/young_dev"
 
 # Site Footer
 footer:
