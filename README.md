@@ -1,2 +1,2 @@
-# young-dev.com
+# young-dev.com Blog 😗
 my blog
