@@ -114,10 +114,10 @@ author:
       # url: "https://www.facebook.com/jaden.brown.93"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/youngfromseoul"
+       url: "https://github.com/youngfromseoul"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/young_dev"
+       url: "https://instagram.com/young_dev"
 
 # Site Footer
 footer:
@@ -127,10 +127,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/jaden.brown.93"
+      # url: "https://www.facebook.com/jaden.brown.93"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+       url: "https://github.com/youngfromseoul"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+       url: "https://instagram.com/young_dev"
 
 
 # Reading Files
