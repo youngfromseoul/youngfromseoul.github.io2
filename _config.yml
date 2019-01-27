@@ -281,3 +281,9 @@ defaults:
       comments:  true
       share: true
       related: true
+
+# Google Search
+google:
+  search_engine_id:'014580277429174412591:lwvub4vaisi';
+
+    
