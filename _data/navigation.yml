@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About" 
-    url: "_pages/about.md" 
+    url: "/about/" 
   - title: "Category"
-    url: "_pages/category-archive.md"
+    url: "/category/"
     
   # - title: "Sample Posts"
   #   url: /year-archive/
