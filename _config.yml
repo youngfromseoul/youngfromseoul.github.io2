@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "개발자로 이직을 위한 일기장."
   location         : "Seoul, Republic of Korea"
-  email            : "youngfromseoul@gmail.com"
+  #email            : "youngfromseoul@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
