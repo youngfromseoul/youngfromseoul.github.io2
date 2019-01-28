@@ -20,5 +20,6 @@ toc: true
  - Korea IT Academy Backend 개발자 6개월 과정
  - Red Hat Certified System Administrator 과정 (RHCSA 취득)
  - DELL EMC UNITY DEEP DIVE (STORAGE 운영자 교육)
+ - AIX Administor 과정 (IBM)
 
 
