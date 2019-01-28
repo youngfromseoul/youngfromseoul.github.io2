@@ -57,6 +57,7 @@ toc_sticky: true
  
 
 * vi 편집기로 Bonding Device를 생성합니다.
+
 ```
 [root@Web-Server /]# vi /etc/sysconfig/network-scripts/ifcfg-bond0
 ```
@@ -67,6 +68,7 @@ toc_sticky: true
 
   고정IP로 설정할때
 {: .notice--info}
+
 ```
   DEVICE=bond0
 
@@ -101,6 +103,7 @@ toc_sticky: true
 
    DHCP 사용할때
   {: .notice--info}
+  
 ```
   DEVICE=bond0
 
