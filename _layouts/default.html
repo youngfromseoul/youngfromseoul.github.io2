@@ -10,7 +10,7 @@
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/nanumgothic.css">  #웹폰트
+  <link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/nanumgothic.css">
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
 
