@@ -140,14 +140,12 @@ Hint: Some lines were ellipsized, use -l to show in full.
 ```
 [root@was-test ~]# systemctl start iptables
 [root@was-test ~]# systemctl enable iptables.service
+[root@was-test ~]# systemctl status iptables.service
 ```
 
 ## 의존성 라이브러리 설치
 ```
 [root@was-test /]# rpm -qa libjpeg* libpng* freetype* gd-* gcc gcc-c++ gdbm-devel libtermcap-devel
-libpng-1.2.49-1.el6_2.x86_64
-freetype-2.4.11-15.el7.x86_64
-libjpeg-turbo-1.2.1-1.el6.x86_64
 [root@was-test /]# yum install libjpeg* libpng* freetype* gd-* gcc gcc-c++ gdbm-devel libtermcap-devel
 ```
 
@@ -156,6 +154,7 @@ libjpeg-turbo-1.2.1-1.el6.x86_64
 [root@was-test ~]# yum install httpd
 [root@was-test ~]# systemctl enable httpd
 [root@was-test /]# systemctl start httpd
+[root@was-test ~]# systemctl status httpd
 ```
 
 ## Maria DB Repo 추가
