@@ -158,8 +158,10 @@ Hint: Some lines were ellipsized, use -l to show in full.
 ```
 
 ## Maria DB Repo 추가
+
 -배포사이트 : http://mariadb.org/
 -버전별 셋팅방법 : http://downloads.mariadb.org/mariadb/repositories
+{: .notice--info}
 
 ```
 [root@was-test /]# vi /etc/yum.repos.d/MariaDB.repo
@@ -182,7 +184,9 @@ Hint: Some lines were ellipsized, use -l to show in full.
 
 
 ## PHP 7 설치
+
 버전별 참고사이트  : https://webtatic.com/projects/yum-repository/
+{: .notice--info}
 ```
 [root@was-test /]# rpm -Uvh https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
 [root@was-test /]# rpm -Uvh https://mirror.webtatic.com/yum/el7/webtatic-release.rpm
