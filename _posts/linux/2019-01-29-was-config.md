@@ -87,6 +87,7 @@ AddType application/x-httpd-php-source .phps (추가)
 ```
 
 ### MariaDB 구동 및 설정
+
 ```
 [root@web /]# systemctl start mariadb
 [root@web /]# ps -ef | grep mysql
