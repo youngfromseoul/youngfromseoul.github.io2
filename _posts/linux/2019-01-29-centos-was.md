@@ -159,8 +159,9 @@ libjpeg-turbo-1.2.1-1.el6.x86_64
 ```
 
 ## Maria DB Repo 추가
-배포사이트 : http://mariadb.org/
-버전별 셋팅방법 : http://downloads.mariadb.org/mariadb/repositories
+-배포사이트 : http://mariadb.org/
+-버전별 셋팅방법 : http://downloads.mariadb.org/mariadb/repositories
+
 ```
 [root@was-test /]# vi /etc/yum.repos.d/MariaDB.repo
 ========================================
@@ -173,6 +174,7 @@ libjpeg-turbo-1.2.1-1.el6.x86_64
  gpgcheck=1
  ========================================
  ```
+ 
  
  ## Maria DB 10.1 설치
  ```
