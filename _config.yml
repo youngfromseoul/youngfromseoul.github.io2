@@ -11,7 +11,7 @@ description              : "시스템 엔지니어 개발 일기."
 url                      : "https://young-dev.com"
 baseurl                  : ""
 repository               : "youngfromseoul/youngfromseoul.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/mainto.png"
 logo                     : "/assets/images/mainicon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
