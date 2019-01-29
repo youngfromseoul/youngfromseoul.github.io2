@@ -189,6 +189,7 @@ gpgcheck=1
 {: .notice--info}
 ```
 [root@was-test /]# rpm -Uvh https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
+[root@was-test /]# rpm -Uvh https://mirror.webtatic.com/yum/el7/epel-release.rpm
 [root@was-test /]# rpm -Uvh https://mirror.webtatic.com/yum/el7/webtatic-release.rpm
 [root@was-test /]# yum install php70w
 ```
