@@ -11,8 +11,8 @@ description              : "시스템 엔지니어 개발 일기."
 url                      : "https://young-dev.com"
 baseurl                  : ""
 repository               : "youngfromseoul/youngfromseoul.github.io"
-teaser                   : "/assets/images/mainto.png"
-logo                     : #"/assets/images/mainicon.png"
+teaser                   : #"/assets/images/mainto.png"
+logo                     : "/assets/images/mainicon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyoyoung Kim"
-  avatar           : "/assets/images/mainto.jpg"
+  avatar           : "/assets/images/mainin.jpg"
   bio              : "시스템 엔지니어 개발 일기."
   location         : "Seoul, Republic of Korea"
   #email            : "youngfromseoul@gmail.com"
