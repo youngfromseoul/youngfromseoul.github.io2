@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyoyoung Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/mainto.jpg"
   bio              : "시스템 엔지니어 개발 일기."
   location         : "Seoul, Republic of Korea"
   #email            : "youngfromseoul@gmail.com"
