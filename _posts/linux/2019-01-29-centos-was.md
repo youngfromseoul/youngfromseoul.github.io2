@@ -207,8 +207,10 @@ gpgcheck=1
 [root@was-test /]# php -v    
 [root@was-test /]# mysql -v 
 ```
-
-
+ 
+ 
+ 
+ 
 다음 포스팅 자료에서는 실제 설정 및 구동에 대한 내용을 포스팅 하도록 하겠습니다.
 
 
