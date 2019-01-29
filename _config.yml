@@ -12,7 +12,7 @@ url                      : "https://young-dev.com"
 baseurl                  : ""
 repository               : "youngfromseoul/youngfromseoul.github.io"
 teaser                   : "/assets/images/mainto.png"
-logo                     : "/assets/images/mainicon.png"
+logo                     : #"/assets/images/mainicon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
