@@ -1,5 +1,5 @@
 ---
-title: "CetnOS7 Web Server 구축하기"
+title: "CentOS7 Web Server 구축하기"
 excerpt: "CentOS7에서 확인 가능한 명령어 및 WAS 구축 가이드"
 categories: 
   - Linux
