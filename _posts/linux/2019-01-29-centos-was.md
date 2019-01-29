@@ -20,13 +20,13 @@ toc: true
 toc_sticky: true
 ---
 
-## Kernel 정보 
+## Kernel 정보 확인
 ```
 [root@gpu1 ~]# uname -r
 3.10.0-693.el7.x86_64
 ```
 
-## Version 확인
+## OS Version 확인
 ```
 [root@gpu1 ~]# cat /etc/redhat-release
 CentOS Linux release 7.4.1708 (Core)
@@ -60,7 +60,7 @@ cat /proc/cpuinfo | grep processor | wc -l
 ```
 
 
-## KST TIME 설정
+## KST Time Zone 설정
 ```
 [root@gpu1 ~]# ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime
 [root@gpu1 ~]# date
