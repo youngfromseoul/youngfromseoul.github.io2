@@ -7,7 +7,7 @@ locale                   : "ko-KR"
 title                    : "YOUNG-DEV.COM"
 title_separator          : "-"
 name                     : "youngfromseoul"
-description              : "3년차 시스템 엔지니어에서 개발자로 가는 일기장."
+description              : "시스템 엔지니어 개발 일기."
 url                      : "https://young-dev.com"
 baseurl                  : ""
 repository               : "youngfromseoul/youngfromseoul.github.io"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Hyoyoung Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "개발자로 이직을 위한 일기장."
+  bio              : "시스템 엔지니어 개발 일기."
   location         : "Seoul, Republic of Korea"
   #email            : "youngfromseoul@gmail.com"
   links:
