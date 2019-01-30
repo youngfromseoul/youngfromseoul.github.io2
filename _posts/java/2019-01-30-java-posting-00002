@@ -1,0 +1,58 @@
+---
+title: "JAVA의 상속과"
+excerpt: "Java 상속에 대해 간단히 알아보기"
+categories: 
+  - Java
+last_modified_at: 2019-01-30T10:21:37+09:00
+tags: 
+    - Java
+    - 상속
+    - Programing
+    - 다형성
+    - 객체배열
+author_profile: true
+read_time: true
+toc_label: "Contents" 
+toc_icon: "cog" 
+toc: true
+toc_sticky: true
+---
+
+## inheritance?
+상속이란 객체 지향 프로그래밍의 중요한 특징중 하나입니다. 상속은 무엇인가를 물려받는다는 의미로, 부모가 자식에게 물려주는 재산과 비슷한 의미로 쓰입니디.
+부모에게 재산을 상속받으면 상속받은 재산을 자신의 것으로 사용할 수 있습니다. 자바에서도 마찬가지로 자식 클래스가 부모 클래스를 상속 받으면 
+자식 클래스는 부모 믈래스의 멤버변수와 메소드를 사용할 수 있습니다. 객체 지향 프로그램은 유지보수하기 편하고 프로그램을 수정하거나 새로운 내용을 추가하는 것이 유연한데,
+그 기반이 되는 기술이 바로 상속입니다.
+
+## extends?
+자바 문법으로 상속을 구현하기 위해서는 extends 예약어를 사용합니다. 아래의 코드와 같이 사용할 수 있습니다.
+
+
+```java
+public class Dog extends Animal {
+}
+```
+
+
+## super?
+super 예약어는 하위 클래스에서 상위 클래스로 접근할 때 사용합니다. 하위 클래스는 상위 클래스의 주소, 즉 참조 값을 알고 있습니다.
+이 참조 값을 가지고 있는 예약어가 super 입니다. 
+
+```java
+public class Animal {
+  public Animal(String name, int age) {
+    this.name = "happy";
+    this.age = 3;
+  }
+}
+```
+```java
+ public class Dog extends Animal {
+  super(name, age);
+  super.name = "kevin";
+```
+
+이렇게 자바의 상속에 대해 간단하게 알아보았습니다. 
+다음 포스팅에는 자바의 메소드 오버로딩과 오버라이딩에 대해 포스팅 하도록 하겠습니다.
+
+
