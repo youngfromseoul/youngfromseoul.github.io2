@@ -29,4 +29,11 @@ toc: true
  * 엠토스 솔루션스 / 전략기술팀 근무
    + 서버, 스토리지, 가상화 구축 및 유지보수 
  * NHN Godo / IDC 운영팀 근무
-   + IDC 리눅스 및 윈도우 서버 시스템 구축 및 운영 
+   + 리눅스 및 윈도우 서버 시스템 구축 및 운영 관리
+   + WEB & WAS 및 기타 APP 구축, 운영 관리
+   
+ ## Certification 
+ * RHCSA (Redhet)
+ * MCP (Microsoft)
+ * ISM (DELL EMC)
+ * DCPPE (DELL EMC)
