@@ -37,3 +37,4 @@ toc: true
  * MCP (Microsoft)
  * ISM (DELL EMC)
  * DCPPE (DELL EMC)
+ * 정보기기운용기능사 (산업인력공단)
