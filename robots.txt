@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://young-dev.com/sitemap.xml
