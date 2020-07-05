@@ -64,6 +64,7 @@ docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v porta
 ![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image4.png?raw=true)
 
 **-quick actions**
+<br>
 ![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image5.png?raw=true)
 
 * 왼쪽부터 컨테이너 로그 - 컨테이니 정보 - 리소스 통계 - bash 콘솔
@@ -85,7 +86,7 @@ docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v porta
 ### 8\. 이벤트 메뉴 통해 도커 로그 확인 가능
 
 ![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image10.png?raw=true)
-<br>
+ 
 ### 9\. registries 메뉴에서 로컬 레지스트리 추가 가능
 
 * <span style="color:#e11d21">웹 상으로 레지스트리 내 이미지들을 관리하려면 익스텐션 (유료 라이선스) 구매 필요 ( 95$ / 연)</span>
