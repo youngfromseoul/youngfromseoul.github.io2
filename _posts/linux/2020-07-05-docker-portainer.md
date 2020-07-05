@@ -52,45 +52,45 @@ docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v porta
 ### 5\. potainer가 설치된 로컬 서버가 아닌\, 리모트 도커 서버도 관리 가능
 
 (현재는 로컬에만 설치되어있기 때문에 로컬 선택 후 connect)
-![image.png](/files/2686184433976272130)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image2.png?raw=true)
 <br>
 ### 6, 대시보드 통해, 도커 정보 확인 가능
 
-![image.png](/files/2686185182150805812)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image3.png?raw=true)
 
 <br>
 ### 7\. 컨테이너 항목 통해 현재 실행 중인 컨테이너 확인 및 관리 가능
 
-![image.png](/files/2686187328871552508)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image4.png?raw=true)
 
 **-quick actions**
-![image.png](/files/2686239342224134993)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image5.png?raw=true)
 
 * 왼쪽부터 컨테이너 로그 - 컨테이니 정보 - 리소스 통계 - bash 콘솔
 
 <br>
 1\. 컨테이너 로그
-![image.png](/files/2686240832579546293)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image6.png?raw=true)
 
 2\. 컨테이너 정보
-![image.png](/files/2686240998353189632)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image7.png?raw=true)
 
 3.  리소스 통계
-![image.png](/files/2686241323969978446)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image8.png?raw=true)
 
 4\. 콘솔
-![image.png](/files/2686241629254806342)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image9.png?raw=true)
 
 <br>
 ### 8\. 이벤트 메뉴 통해 도커 로그 확인 가능
 
-![image.png](/files/2686188283874053494)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image10.png?raw=true)
 <br>
 ### 9\. registries 메뉴에서 로컬 레지스트리 추가 가능
 
 * <span style="color:#e11d21">웹 상으로 레지스트리 내 이미지들을 관리하려면 익스텐션 (유료 라이선스) 구매 필요 ( 95$ / 연)</span>
 
-![image.png](/files/2686192531200644304)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image11.png?raw=true)
 
 <br>
 **\- 로컬 레지스트리 생성하기**
@@ -127,7 +127,7 @@ docker pull 192.168.0.120:5000/mysql_5.6
 <br>
 ### 10, image 메뉴 통해 새로운 이미지 빌드, import, export, 로컬 레지스트리에서 이미지 가져오기 기능
 <br>
-![image.png](/files/2686194010941416165)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image12.png?raw=true)
 <br>
 ### 11\. endpoints 메뉴에서  리모트 도커 서버 추가
 
@@ -154,13 +154,13 @@ systemctl restart docker
 <br>
 * 엔드포인트 생성
 
-![image.png](/files/2686202147630575690)
-![image.png](/files/2686202244640528892)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image13.png?raw=true)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image14.png?raw=true)
 <br>
 * 리모트 도커 서버의 정보 확인 가능 <span style="color:#e11d21">(로컬서버와 동일하게 모든 권한 부여됨)</span>
 
-![image.png](/files/2686202481456931278)
-![image.png](/files/2686202661691220588)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image15.png?raw=true)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image16.png?raw=true)
 
 <br>
 ### 12\. user 메뉴 통해 권한 관리 가능
@@ -170,13 +170,13 @@ systemctl restart docker
 <br>
 * 특정 팀 생성 및 유저 생성하여 팀에 포함 설정
 
-![image.png](/files/2686214666882677433)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image17.png?raw=true)
 <br>
 * 엔드포인트 (도커 서버) 그룹 생성
 
-![image.png](/files/2686215418720243477)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image18.png?raw=true)
 <br>
 * 엔드포인트에 접근할 수 있는 팀 or 유저 추가 가능 (하단의 Access) 
 * 어드민 계정은 전체 접근 가능
 
-![image.png](/files/2686215967033201121)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image19.png?raw=true)
