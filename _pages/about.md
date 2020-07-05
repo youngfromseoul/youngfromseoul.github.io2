@@ -49,7 +49,7 @@ toc: true
      * Ansible 자동화 툴 통한 다수 서버 관리 (백업서버, 개발서버 운영 관리 및 스크립트 배포)
    
 ## Certification 
- * Solutions Architect (Amazon Web Services)
+ * AWS Solutions Architect (Amazon Web Services)
  * RHCSA (Redhet)
  * MCP (Microsoft)
  * ISM (DELL EMC)
