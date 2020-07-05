@@ -1,3 +1,23 @@
+---
+title: "portainer (docker 웹 관리 콘솔) 사용하기"
+excerpt: "portainer (docker 웹 관리 콘솔) 사용하기"
+categories: 
+  - Linux
+last_modified_at: 2020-07-05T23:00:00+09:00
+tags: 
+    - Linux
+    - CentOS
+    - Redhat
+    - Ubuntu
+    - docker
+author_profile: true
+read_time: true
+toc_label: "docker" 
+toc_icon: "cog" 
+toc: true
+toc_sticky: true
+---
+
 portainer ( docker 웹 관리 콘솔) 기능이 도커 사용 시에 관리나 모니터링 면에서 유용한 툴
 
 <br>
