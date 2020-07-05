@@ -47,7 +47,7 @@ docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v porta
 <br>
 ### 4\. 9000번 포트로 웹 접속 및 관리 패스워드 설정
 
-![image.png](/files/2686183757709786647)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/image1.png?raw=true)
 <br>
 ### 5\. potainer가 설치된 로컬 서버가 아닌\, 리모트 도커 서버도 관리 가능
 
