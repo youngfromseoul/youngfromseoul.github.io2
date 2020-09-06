@@ -21,7 +21,6 @@ toc: true
  - Red Hat Certified System Administrator 자격 취득 과정 (RedHat)
  - UNITY DEEP DIVE STORAGE 운영자 교육(DELL EMC)
  - AIX Administor 과정 (IBM)
- - IOS Developer (Swift5) 강의 수강
 
 
 ## Skils
@@ -50,4 +49,3 @@ toc: true
  * MCP (Microsoft)
  * ISM (DELL EMC)
  * DCPPE (DELL EMC)
- * 정보기기운용기능사 (산업인력공단)
