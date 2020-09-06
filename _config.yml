@@ -4,10 +4,10 @@ minimal_mistakes_skin    :  "default"  # "air", "aqua", "contrast", "dark", "dir
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "YOUNG-DEV.COM"
+title                    : "free.y - devlog"
 title_separator          : "-"
 name                     : "youngfromseoul"
-description              : "시스템 엔지니어 개발 일기."
+description              : "devlog."
 url                      : "https://young-dev.com"
 baseurl                  : ""
 repository               : "youngfromseoul/youngfromseoul.github.io"
