@@ -57,7 +57,7 @@ search_full_content      :  true
 search_provider          :  algolia #lunr (default), algolia, google
 algolia:
   application_id         :  SWDK551YBS # YOUR_APPLICATION_ID
-  index_name             :  YOUNG-DEV.COM # YOUR_INDEX_NAME
+  index_name             :  free.y - devlog # YOUR_INDEX_NAME
   search_only_api_key    :  9dcf0fd754f95abe80cbb260a6b0fe47 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Hyoyoung Kim"
   avatar           : "/assets/images/mainin.jpg"
-  bio              : "시스템 엔지니어 개발 일기."
+  bio              : "devlog."
   location         : "Seoul, Republic of Korea"
   #email            : "youngfromseoul@kakao.com"
   links:
