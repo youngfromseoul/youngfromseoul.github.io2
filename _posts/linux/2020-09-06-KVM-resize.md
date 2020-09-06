@@ -1,5 +1,5 @@
 ---
-title: "[KVM]qcow2 zero area 삭제하기"
+title: "[KVM] qcow2 zero area 삭제하기"
 excerpt: "KVM qcow2 zero area 삭제하기"
 categories: 
   - Linux
