@@ -3,7 +3,7 @@ title: "[Centos7] Tomcat, JDK 설치방법"
 excerpt: "[Centos7] Tomcat, JDK 설치방법"
 categories: 
   - Linux
-last_modified_at: 2020-09-06T10:51:00+09:00
+last_modified_at: 2020-09-14T14:55:00+09:00
 tags: 
     - Linux
     - CentOS
