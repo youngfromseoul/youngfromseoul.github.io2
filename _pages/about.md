@@ -24,10 +24,10 @@ toc: true
 
 
 ## Skils
- - Linux Server 운영
- - Windows Server 운영
- - Apache, Nginx, Tomcat 운영
- - Mysql, Postgresql, MongoDB 운영
+ - Linux Serve
+ - Windows Server
+ - Apache, Nginx, Tomcat
+ - Mysql, Postgresql, MongoDB
  - Shell Script
  - Powershell
  - Python
