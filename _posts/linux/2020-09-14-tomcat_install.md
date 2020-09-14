@@ -38,8 +38,6 @@ https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html﻿
 <br>
 <span style="color:  #333333;;">**Linux x64 Compressed Archive 다운로드**</span>
 
-<figure data-ke-type="image" data-ke-style="alignCenter" data-lazy-src="" data-width="886" data-height="53" data-origin-width="0" data-origin-height="0">![](https://blog.kakaocdn.net/dn/olXgQ/btqC4uc4TRC/V1A1iJuxNcPLFTDzm4HJbK/img.png)</figure><span style="color:  #333333;;"></span>
-
 <span style="color:  #333333;;">**다운로드 완료 후, FTP 등을 통하여 서버에 업로드**</span>
 <br>
 ```
@@ -107,5 +105,3 @@ tcp6 0 0 :::8080 :::* LISTEN 1574/java
 <span style="color:  #333333;;"></span>
 
 <span style="color:  #333333;;">**주소 창에 IP:8080으로 접속하여 톰캣 기본페이지 확인**</span>
-
-<figure data-ke-type="image" data-ke-style="alignCenter" data-lazy-src="" data-width="886" data-height="608" data-origin-width="0" data-origin-height="0">![](https://blog.kakaocdn.net/dn/btYepX/btqC48AMLZJ/n8Fu7lGr97Nj8GpKTgo7B0/img.png)</figure><span style="color:  #333333;;">접속이 되지않을 경우, 방화벽 8080 포트 허용여부 확인</span>
