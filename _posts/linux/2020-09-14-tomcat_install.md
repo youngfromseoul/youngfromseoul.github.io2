@@ -33,15 +33,8 @@ toc_sticky: true
 
 <span style="color:  #333333;;">java의 경우, 오라클 로그인이 되어야 가입 가능하기 때문에 아래 주소에서 다운로드</span>
 
-<span style="color:  #333333;;">[https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)</span>
+https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html﻿
 
-<figure id="og_1585638508224" data-ke-type="opengraph" data-og-type="website" data-og-title="Java SE Development Kit 8 - Downloads" data-og-description="Java SE Development Kit 8 Downloads Thank you for downloading this release of the Java™ Platform, Standard Edition Development Kit (JDK™). The JDK is a development environment for building applications, applets, and components using the Java programming la" data-og-host="www.oracle.com" data-og-source-url="https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html" data-og-url="https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html" data-og-image="">
-Java SE Development Kit 8 - Downloads
-
-<span style="color:  #909090;;">Java SE Development Kit 8 Downloads Thank you for downloading this release of the Java™ Platform, Standard Edition Development Kit (JDK™). The JDK is a development environment for building applications, applets, and components using the Java programming la</span>
-
-<span style="color:  #909090;;">www.oracle.com</span>
-</figure><br>
 <br>
 <span style="color:  #333333;;">**Linux x64 Compressed Archive 다운로드**</span>
 
