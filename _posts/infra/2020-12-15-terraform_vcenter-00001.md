@@ -16,7 +16,7 @@ toc: true
 toc_sticky: true
 ---
 
-![terraform.png](/files/2900029348826790789)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/terraform1.png?raw=true)
 <br>
 # 1\. Terraform이란?
 
@@ -310,7 +310,7 @@ vm-network = "VM Network"
 terraform init
 ```
 
-![image.png](/files/2900029349347312898)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/terraform2.png?raw=true)
 <figure class="ix iy iz ja jb fm ev ew paragraph-image"><figcaption class="lt lu ex ev ew lv lw ar b as at bp" data-selectable-paragraph="">terraform init 결과</figcaption></figure>
 
 - - -
@@ -321,9 +321,8 @@ terraform init
 terraform plan
 ```
 
-![image.png](/files/2900029349662235813)
-
-![image.png](/files/2900029349974786775)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/terraform3.png?raw=true)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/terraform4.png?raw=true)
 
 terraform plan 실행 결과
 
@@ -335,7 +334,7 @@ terraform plan 실행 결과
 terraform apply
 ```
 
-![image.png](/files/2900029350367299998)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/terraform5.png?raw=true)
 <figure class="ix iy iz ja jb fm ev ew paragraph-image"><figcaption class="lt lu ex ev ew lv lw ar b as at bp" data-selectable-paragraph="">terraform apply 결과</figcaption></figure>
 
 - - -
@@ -343,7 +342,7 @@ terraform apply
 <figure class="ix iy iz ja jb fm ev ew paragraph-image"><br>
 <br>
 vCenter의 가상 머신
-![image.png](/files/2900029831648149435)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/terraform6.png?raw=true)
 </figure>
 
 # 5\. 가상 머신 제거
@@ -354,5 +353,5 @@ vCenter의 가상 머신
 terraform destroy
 ```
 
-![image.png](/files/2900029351692023878)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/terraform7.png?raw=true)
 <figure class="ix iy iz ja jb fm ev ew paragraph-image"><figcaption class="lt lu ex ev ew lv lw ar b as at bp" data-selectable-paragraph="">terraform destroy 결과</figcaption></figure>
