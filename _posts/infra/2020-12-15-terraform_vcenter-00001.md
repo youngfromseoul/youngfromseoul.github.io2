@@ -51,7 +51,8 @@ brew install terraform
 
 * [https://www.terraform.io/downloads.html](https://www.terraform.io/downloads.html) .zip 파일 다운로드
 
-<br>
+---
+
 ### Linux
 
 ```
