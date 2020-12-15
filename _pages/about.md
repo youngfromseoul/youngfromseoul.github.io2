@@ -24,8 +24,9 @@ toc: true
 
 
 ## Skils
- - Linux Serve
+ - Linux Server
  - Windows Server
+ - Xen, VMware, AWS
  - Apache, Nginx, Tomcat
  - Mysql
  - Shell Script
