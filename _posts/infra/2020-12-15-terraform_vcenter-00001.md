@@ -18,6 +18,7 @@ toc_sticky: true
 
 ![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/terraform1.png?raw=true)
 <br>
+
 # 1\. Terraform이란?
 
 <span style="color:#292929">**Terraform**은 인프라를 안전하고 효율적으로 구축, 변경 및 버전 관리 하는 데 가장 널리 사용되는 **IAC (Infrastructure as Code)** 도구입니다.</span>
@@ -37,9 +38,10 @@ toc_sticky: true
 제공되는 서비스 목록 전체 → [https://www.terraform.io/docs/providers/index.html] <br>
 NHN Cloud 가이드 -> [https://docs.toast.com/ko/Compute/Instance/ko/terraform-guide/]
 
+
 # 2\. Terraform 설치
 
-### **Mac**
+**Mac**
 
 ```
 brew install terraform
@@ -47,13 +49,13 @@ brew install terraform
 
 ---
 
-#### **Windows**
+**Windows**
 
 * [https://www.terraform.io/downloads.html](https://www.terraform.io/downloads.html) .zip 파일 다운로드
 
 ---
 
-### Linux
+**Linux**
 
 ```
 wget https://releases.hashicorp.com/terraform/0.14.2/terraform_0.14.2_linux_amd64.zip
@@ -64,7 +66,9 @@ Terraform v0.14.2
 ```
 <br>
 
+
 # 3\. Terraform 스크립트 작성
+
 
 <span style="color:#292929">예제) 기존 생성한 CentOS8 템플릿을 배포하는 스크립트 작성</span> <br>
 <span style="color:#292929">참고 - </span> https://registry.terraform.io/providers/hashicorp/vsphere/latest/docs/data-sources/virtual\_machine#firmware
@@ -304,7 +308,9 @@ vm-datastore = "datastore250"
 vm-network = "VM Network"
 ```
 
+
 # 4\. Terraform 스크립트 실행
+
 
 <span style="color:#292929">**GitHub** 저장소로 스크립트를 push하고 자격 증명 및 환경 설정으로 **terraform.tfvars** 파일을 업데이트합니다 .</span>
 
@@ -354,7 +360,9 @@ vCenter의 가상 머신
 ![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/terraform6.png?raw=true)
 </figure>
 
+
 # 5\. 가상 머신 제거
+
 
 <span style="color:#292929">아래 명령어로 모든 가상 머신을 삭제할 수 있습니다.</span>
 <br>
