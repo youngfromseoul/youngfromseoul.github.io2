@@ -66,8 +66,8 @@ Terraform v0.14.2
 
 # 3\. Terraform 스크립트 작성
 
-<span style="color:#292929">예제) 기존 생성한 CentOS8 템플릿을 배포하는 스크립트 작성</span>
-<span style="color:#292929">참고 - </span>[https://registry.terraform.io/providers/hashicorp/vsphere/latest/docs/data-sources/virtual\_machine#firmware](https://registry.terraform.io/providers/hashicorp/vsphere/latest/docs/data-sources/virtual_machine#firmware)
+<span style="color:#292929">예제) 기존 생성한 CentOS8 템플릿을 배포하는 스크립트 작성</span> <br>
+<span style="color:#292929">참고 - </span> https://registry.terraform.io/providers/hashicorp/vsphere/latest/docs/data-sources/virtual\_machine#firmware
 
 ---
 
