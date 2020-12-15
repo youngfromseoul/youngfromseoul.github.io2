@@ -356,7 +356,9 @@ terraform apply
 <br>
 vCenter의 가상 머신
 </figure>
+
 ![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/terraform6.png?raw=true)
+
 
 # 5\. 가상 머신 제거
 
