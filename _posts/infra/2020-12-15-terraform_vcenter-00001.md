@@ -35,8 +35,7 @@ toc_sticky: true
 * NHN Cloud
 
 <br>
-제공되는 서비스 목록 전체 → [https://www.terraform.io/docs/providers/index.html] <br>
-NHN Cloud 가이드 -> [https://docs.toast.com/ko/Compute/Instance/ko/terraform-guide/]
+제공되는 서비스 목록 전체 → https://www.terraform.io/docs/providers/index.html <br>
 
 
 # 2\. Terraform 설치
@@ -334,7 +333,7 @@ terraform plan
 ![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/terraform3.png?raw=true)
 ![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/terraform4.png?raw=true)
 
-terraform plan 실행 결과
+<figure class="ix iy iz ja jb fm ev ew paragraph-image"><figcaption class="lt lu ex ev ew lv lw ar b as at bp" data-selectable-paragraph="">terraform plan 결과</figcaption></figure>
 
 
 ---
