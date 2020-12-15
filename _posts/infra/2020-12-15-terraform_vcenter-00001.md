@@ -175,6 +175,7 @@ description = "가상머신을 배포할 템플릿 이름"
 }
 ```
 <br>
+
 ---
 
 가상 머신을 만드는 데 사용되는 <b>[main.tf](http://main.tf)</b> 파일 생성
@@ -254,6 +255,7 @@ clone {
 }
 ```
 <br>
+
 ---
 
 자격 증명 및 기타 변수를 저장하는 데 사용되는 **terraform.tfvars** 파일 생성
@@ -315,7 +317,7 @@ terraform init
 ![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/terraform2.png?raw=true)
 <figure class="ix iy iz ja jb fm ev ew paragraph-image"><figcaption class="lt lu ex ev ew lv lw ar b as at bp" data-selectable-paragraph="">terraform init 결과</figcaption></figure>
 
-- - -
+---
 
 <figure class="ix iy iz ja jb fm ev ew paragraph-image">그런다음 terraform plan<span style="color:#212121">을 실행하면, Terraform이 코드와 인프라 상태를 대조하여 생성/변경/삭제할 사항들을 나열합니다.</span></figure>
 
@@ -328,7 +330,9 @@ terraform plan
 
 terraform plan 실행 결과
 
+
 ---
+
 
 <span style="color:#292929">아래 명령으로 Terraform 실행</span>
 
@@ -339,11 +343,14 @@ terraform apply
 ![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/terraform5.png?raw=true)
 <figure class="ix iy iz ja jb fm ev ew paragraph-image"><figcaption class="lt lu ex ev ew lv lw ar b as at bp" data-selectable-paragraph="">terraform apply 결과</figcaption></figure>
 
+
 ---
+
 
 <figure class="ix iy iz ja jb fm ev ew paragraph-image"><br>
 <br>
 vCenter의 가상 머신
+  
 ![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/terraform6.png?raw=true)
 </figure>
 
