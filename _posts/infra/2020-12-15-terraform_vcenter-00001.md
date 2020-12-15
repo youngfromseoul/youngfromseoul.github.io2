@@ -34,8 +34,8 @@ toc_sticky: true
 * NHN Cloud
 
 <br>
-<span style="color:#292929">제공되는 서비스 목록 전체 → [https://www.terraform.io/docs/providers/index.html](https://www.terraform.io/docs/providers/index.html)</span>
-NHN Cloud 가이드 -> [https://docs.toast.com/ko/Compute/Instance/ko/terraform-guide/](https://docs.toast.com/ko/Compute/Instance/ko/terraform-guide/)
+제공되는 서비스 목록 전체 → [https://www.terraform.io/docs/providers/index.html]
+NHN Cloud 가이드 -> [https://docs.toast.com/ko/Compute/Instance/ko/terraform-guide/]
 
 # 2\. Terraform 설치
 
@@ -45,7 +45,7 @@ NHN Cloud 가이드 -> [https://docs.toast.com/ko/Compute/Instance/ko/terraform
 brew install terraform
 ```
 
-- - -
+---
 
 #### **Windows**
 
@@ -62,12 +62,13 @@ terraform -v
 Terraform v0.14.2
 ```
 <br>
+
 # 3\. Terraform 스크립트 작성
 
 <span style="color:#292929">예제) 기존 생성한 CentOS8 템플릿을 배포하는 스크립트 작성</span>
 <span style="color:#292929">참고 - </span>[https://registry.terraform.io/providers/hashicorp/vsphere/latest/docs/data-sources/virtual\_machine#firmware](https://registry.terraform.io/providers/hashicorp/vsphere/latest/docs/data-sources/virtual_machine#firmware)
 
-- - -
+---
 
 <span style="color:#292929">변수를 저장하는 데 사용되는 <b>[variables.tf](http://variables.tf)</b> 라는 파일 생성</span>
 <br>
@@ -173,7 +174,7 @@ description = "가상머신을 배포할 템플릿 이름"
 }
 ```
 <br>
-- - -
+---
 
 가상 머신을 만드는 데 사용되는 <b>[main.tf](http://main.tf)</b> 파일 생성
 <br>
@@ -252,7 +253,7 @@ clone {
 }
 ```
 <br>
-- - -
+---
 
 자격 증명 및 기타 변수를 저장하는 데 사용되는 **terraform.tfvars** 파일 생성
 **서버 IP, 패스워드, 계정을 하드코딩으로 넣게되면 보안 취약하기 때문에 주석처리**
@@ -326,7 +327,7 @@ terraform plan
 
 terraform plan 실행 결과
 
-- - -
+---
 
 <span style="color:#292929">아래 명령으로 Terraform 실행</span>
 
@@ -337,7 +338,7 @@ terraform apply
 ![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/terraform5.png?raw=true)
 <figure class="ix iy iz ja jb fm ev ew paragraph-image"><figcaption class="lt lu ex ev ew lv lw ar b as at bp" data-selectable-paragraph="">terraform apply 결과</figcaption></figure>
 
-- - -
+---
 
 <figure class="ix iy iz ja jb fm ev ew paragraph-image"><br>
 <br>
