@@ -27,7 +27,7 @@ toc: true
  - Linux Serve
  - Windows Server
  - Apache, Nginx, Tomcat
- - Mysql, Postgresql, MongoDB
+ - Mysql
  - Shell Script
  - Powershell
  - Python
@@ -35,12 +35,9 @@ toc: true
  
 
 ## Career
- * MTOS Solutions / 전략기술팀
-   + 서버, 스토리지, 가상화 구축 및 유지보수 
+ * MTOS Solutions / 전략기술팀 / 2017-11 ~ 2019-02
    
- * NHN TOAST / 기술본부 / 인프라운영팀
-   + 호스팅 서비스 운영 및 기술지원
-   + 사내 인프라 시스템 관리 및 운영
+ * NHN TOAST / 기술본부 / 인프라운영팀 / 2019-02 ~ 현재
    
   
 ## Certification 
