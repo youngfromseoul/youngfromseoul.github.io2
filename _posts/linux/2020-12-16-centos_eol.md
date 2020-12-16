@@ -9,7 +9,7 @@ tags:
     - Linux
 author_profile: true
 read_time: true
-toc_label: "CentOS8 지원 종료 대안" 
+toc_label: "CentOS8" 
 toc_icon: "cog" 
 toc: true
 toc_sticky: true
