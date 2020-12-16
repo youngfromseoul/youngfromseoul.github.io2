@@ -36,29 +36,29 @@ RHEL 이 정식 발표된 후에 소스를 가져다가 다시 빌드해서 만�
 
 <br>
 
-#### CentOS Stream 과 차이
+** CentOS Stream 과 차이 **
 RHEL 발표후 소스를 다시 빌드해서 제공하는 CentOS 와는 달리 CentOS Stream 은  CentOS Stream 은 RHEL 의 Upstream(development) 운영체제로 Fedora 에서 추가된 신기능이나 app 등을 선별해서 검증하는 베타 채널의 개념으로 운영될 예정입니다.
 
 <br>
 
-## 대안
+## 대안 
 2021년 12월 31일로 CentOS8이 종료되므로 CentOS8 사용자는 여러 대안중에 고민해야 하며 CentOS7 사용자도 장기적으로 이전 준비를 해야합니다.
 
 <br>
 
-#### RHEL 로 전환
+** RHEL 로 전환 **
 Red Hat 이 제시하는 방법중 하나로 비용 문제를 제외하면 전환도 쉽고 좋은 방법이지만 여러 이유로 CentOS 를 사용했던 곳에서 RHEL 로 전환하지는 않을 듯 합니다.
 
-#### Rocky LinuxLink to Rocky Linux
+** Rocky LinuxLink to Rocky Linux **
 Rocky Linux 는 CentOS 프로젝트의 창시자인 Gregory Kurtzer 가 시작한 프로젝트로 현재의 CentOS 처럼 RHEL 의 공개 소스를 가져와서 다시 빌드하고 패키징하는 것을 목표로 하고 있으며 심지어 RHEL 의 버그까지 똑같이 재연하는 것을 목료포 하고 있습니다. <br>
 커뮤니티의 전폭적인 지지를 받고 있으며 github 저장소에는 프로젝트의 방향성과 FAQ 를 정리한 문서밖에 없지만 좋아요를 5,000 개 이상 받았으며 아직 구체적인 릴리스 날자가 발표되지는 않았습니다.
 
-#### Cloud LinuxLink to Cloud Linux
+** Cloud LinuxLink to Cloud Linux **
 Cloud Linux 라는 배포판을 만드는 cloudlinux.com 이라는 회사에서 RHEL 8 과 호환되는 CentOS 와 유사한 배포판을 발표할 계획이며 RHEL 8 과 동일하게 29년까지 제품 지원을 제공할 예정입니다.
 이 회사는 구체적으로 21년 1분기에 제품을 출시하겠다고 발표했습니다. <br>
 (참고 - Announcing Open-sourced & Community-Driven RHEL Fork by CloudLinux)
 
-#### Oracle LinuxLink to Oracle Linux
+** Oracle LinuxLink to Oracle Linux **
 RHEL 기반의 배포판인 Oracle Linux 를 만드는 오라클은 자사 제품으로 전환을 가장 적극적으로 지원하고 있습니다. <br>
 오라클 리눅스는 커스텀 커널인 UEK(Oracle Unbreakable Enterprise Kernel) 기반인데 원할 경우 RHEL 에 포함된 커널을 사용할 수도 있으며 자사 제품으로 쉽게 전환하기 위해서 centos to oracle linux 라는 쉘 스크립트까지 제공하고 있습니다. <br>
 하지만 Sun Micro systems 를 인수한후에 썬이 진행하던 오픈 소스(Hudson, Open Solaris, MySQL 등)를 대하던 태도나 Java 정책 변경등을 보면 오라클 리눅스로 전환이 과연 CentOS 정책 변경의 대안일까 하는 의문이 듭니다. <br>
