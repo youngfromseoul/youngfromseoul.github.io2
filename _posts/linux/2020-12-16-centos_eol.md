@@ -37,7 +37,7 @@ RHEL 이 정식 발표된 후에 소스를 가져다가 다시 빌드해서 만�
 #### CentOS Stream 과 차이
 RHEL 발표후 소스를 다시 빌드해서 제공하는 CentOS 와는 달리 CentOS Stream 은  CentOS Stream 은 RHEL 의 Upstream(development) 운영체제로 Fedora 에서 추가된 신기능이나 app 등을 선별해서 검증하는 베타 채널의 개념으로 운영될 예정입니다.
 
-
+<br>
 
 ## 대안
 2021년 12월 31일로 CentOS8이 종료되므로 CentOS8 사용자는 여러 대안중에 고민해야 하며 CentOS7 사용자도 장기적으로 이전 준비를 해야합니다.
