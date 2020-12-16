@@ -32,6 +32,8 @@ RHEL 이 정식 발표된 후에 소스를 가져다가 다시 빌드해서 만�
 * CentOS 7: 2024년 6월 30일까지 지원
 * CentOS 6: 2020년 11월 30일 종료됨
 
+<br>
+
 #### CentOS Stream 과 차이
 RHEL 발표후 소스를 다시 빌드해서 제공하는 CentOS 와는 달리 CentOS Stream 은  CentOS Stream 은 RHEL 의 Upstream(development) 운영체제로 Fedora 에서 추가된 신기능이나 app 등을 선별해서 검증하는 베타 채널의 개념으로 운영될 예정입니다.
 
@@ -42,6 +44,8 @@ RHEL 발표후 소스를 다시 빌드해서 제공하는 CentOS 와는 달리 C
 
 #### RHEL 로 전환
 Red Hat 이 제시하는 방법중 하나로 비용 문제를 제외하면 전환도 쉽고 좋은 방법이지만 여러 이유로 CentOS 를 사용했던 곳에서 RHEL 로 전환하지는 않을 듯 합니다.
+
+<br>
 
 * Rocky LinuxLink to Rocky Linux
 Rocky Linux 는 CentOS 프로젝트의 창시자인 Gregory Kurtzer 가 시작한 프로젝트로 현재의 CentOS 처럼 RHEL 의 공개 소스를 가져와서 다시 빌드하고 패키징하는 것을 목표로 하고 있으며 심지어 RHEL 의 버그까지 똑같이 재연하는 것을 목료포 하고 있습니다. 
