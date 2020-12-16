@@ -2,17 +2,11 @@
 title: "CentOS8 지원 종료 및 대안"
 excerpt: "CentOs8 지원 종료 및 대안"
 categories: 
-<<<<<<< HEAD:_posts/linux/2020-12-16-centos_eol.md
-  - Infra
-last_modified_at: 2020-12-15T15:47:00+09:00
-=======
   - Linux
-last_modified_at: 2020-12-16T17:12:00+09:00
->>>>>>> 9545aa35fc77baa401c620c38cffabf334398428:_posts/linux/2020-12-16-CentOS8_EOL.md
 tags: 
-    - Terraform
+    - CentOS
     - Infra
-    - Devops
+    - Linux
 author_profile: true
 read_time: true
 toc_label: "CentOS8 지원 종료 대안" 
@@ -62,8 +56,3 @@ RHEL 기반의 배포판인 Oracle Linux 를 만드는 오라클은 자사 제�
 하지만 Sun Micro systems 를 인수한후에 썬이 진행하던 오픈 소스(Hudson, Open Solaris, MySQL 등)를 대하던 태도나 Java 정책 변경등을 보면 오라클 리눅스로 전환이 과연 CentOS 정책 변경의 대안일까 하는 의문이 듭니다.
 특히 이번 정책 변경이 아쉽긴 하지만 Red Hat 은 꾸준히 다양한 Open Source 를 지원하는 회사이고 Linux Kernel 에 가장 많은 기여를 하는 회사중 하나지만 오라클은 별다른 기여가 없는 것으로 알고 있으며 기존 사례로 봤을 때 오라클 리눅스가 어떻게 정책을 변경할지 알수 없으므로 저라면 오라클 리눅스로 전환하기 않을 것입니다.
 
-<<<<<<< HEAD:_posts/linux/2020-12-16-centos_eol.md
-=======
-
----
->>>>>>> 9545aa35fc77baa401c620c38cffabf334398428:_posts/linux/2020-12-16-CentOS8_EOL.md
