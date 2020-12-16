@@ -17,10 +17,12 @@ toc_sticky: true
 
 
 ## CentOS
-그동안 CentOS 는 RHEL(Red Hat Enterprise Linux)와 호환이 되는 안정적인 운영체제였습니다.
+그동안 CentOS 는 RHEL(Red Hat Enterprise Linux)와 호환이 되는 안정적인 운영체제였습니다. <br>
 RHEL 이 정식 발표된 후에 소스를 가져다가 다시 빌드해서 만드므로 100% 바이너리 호환성을 갖고 있으며 제품 지원 기간(보통 10년)이 길고 별도의 비용 지불이 필요없으므로 Web Server, 개발 시스템,내부 용도 서비스에 사용하기에 적합했습니다.
 
-하지만 2020년 12월 9일에 발표된 RedHat 발표에 따르면 CentOS8 은 2020년 12월 31일에 지원이 끝나고 22년부터는 CentOS Stream 이라는 운영체제로 변경됩니다.
+<br>
+
+하지만 2020년 12월 9일에 발표된 RedHat 발표에 따르면 CentOS8 은 2020년 12월 31일에 지원이 끝나고 22년부터는 CentOS Stream 이라는 운영체제로 변경됩니다. <br>
 
 다만, CentOS7은 2024년 6월 30일까지 기존 EOL과 동일한 정책으로 서비스 됩니다.
 
