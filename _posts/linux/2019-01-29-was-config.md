@@ -1,5 +1,5 @@
 ---
-title: "CentOS7 Web Server 설정 및 구동하기"
+title: "[APM] Apache, PHP, MariaDB config(설정) 및 구동"
 excerpt: "Apache, PHP, MariaDB config(설정) 및 구동"
 categories: 
   - Linux
@@ -14,7 +14,7 @@ tags:
     - MariaDB
 author_profile: true
 read_time: true
-toc_label: "Web Server 설정" 
+toc_label: "APM 설치, " 
 toc_icon: "cog" 
 toc: true
 toc_sticky: true
