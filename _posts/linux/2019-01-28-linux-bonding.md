@@ -136,4 +136,4 @@ toc_sticky: true
 - mode3 = Broadcast : Fault-Tolerance, 모든 Slave으로 데이터전송(failover), 일반적으로는 잘 사용안함.
 - mode4 = 802.3ad : Dynamic Link Aggregation, IEEE 802.3ad 프로토콜을 이용하여 동적 Aggregation 작성 대역폭 상승, 부하 분산, Failover 지원
 - mode5 = balance-tlb(TLB) : 적응형 송신 부하 분산, 송신패킷 로드밸런싱, 송신시 부하가 낮은 NIC이용 수신은 특정 NIC이용
-- mode6 = balance-alb(ALB) : 적응형 부하 분산, 송수신패킷 로드밸런싱, 송수신시 부하가 낮은 NIC를 사용
+- mode6 = balance-alb(ALB) : 적응형 부하 분산, 송수신패킷 로드밸런싱, 송수신시 부하가 낮은 NIC를 사용 
