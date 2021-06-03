@@ -7,7 +7,6 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <script data-ad-client="ca-pub-1528085389641505" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -18,6 +17,7 @@
     <div class="initial-content">
       {{ content }}
     </div>
+    <script data-ad-client="ca-pub-1528085389641505" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
     {% if site.search == true %}
       <div class="search-content">
