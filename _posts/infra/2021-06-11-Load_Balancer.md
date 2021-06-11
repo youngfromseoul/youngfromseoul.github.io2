@@ -19,20 +19,21 @@ toc_sticky: true
 
 여러 대의 서버를 통해, 부하를 분산처리하고자 할 경우, 로드 밸런서를 통해 각 서버로 트래픽을 분산해줄 수 있는 서비스
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/load-balancing.png?raw=true)
+<br>
+
+<center> ![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/load-balancing.png?raw=true) </center>
 
 <br>
 
-* **Round Robin**
+* **Round Robin** <br>
 라운드 로빈 방식은 트래픽을 모든 서버에 연속적으로 전송하여 요청을 순차적으로 전달 <br>
 트래픽을 균등하게 분배하지만 각 서버의 부하량 고려할 수 없음
 
-<br>
-
-* **Least Connections**
+* **Least Connections** <br>
 서버와 소프트웨어간에 활성 연결이 가장 적은 서버로 트래픽을 전달 <br>
 이 방법은 상대적으로 효율적이지만 노드의 응답 성을 고려하지 않음
 
+<br>
 
 ## Load Balancer Type
 * **DSR(Direct Server Return)**
@@ -42,7 +43,6 @@ toc_sticky: true
 > Direct로 전달하기 때문에, 서버에서 Client IP로 접근 됨 <br>
 > Session 기반 서버에서는 사용이 어려움 <br>
 
-<br>
 
 * **Proxy**
 
