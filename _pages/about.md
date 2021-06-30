@@ -9,7 +9,7 @@ toc: true
 
 
 ## About Me
-**김효영 (1993.03.21)**
+**김효영**
 {:.no_toc}
  - 인천대헌공업고등학교 (2009 ~ 2012)
 {:.no_toc}
@@ -17,7 +17,7 @@ toc: true
 {:.no_toc}
 
 ## Education
- - Korea IT Academy Java Backend 개발자 6개월 과정
+ - Korea IT Academy Java Backend 개발자 과정
  - Red Hat Certified System Administrator 자격 취득 과정 (RedHat)
  - UNITY DEEP DIVE STORAGE 운영자 교육(DELL EMC)
  - AIX Administor 과정 (IBM)
@@ -26,21 +26,17 @@ toc: true
 ## Skils
  - Linux Server
  - Windows Server
- - Xen, VMware, AWS
- - Apache, Nginx, Tomcat
- - Mysql
- - Shell Script
- - Powershell
- - Python
- - Java
+ - VMware
+ - AWS, GCP
+ - Shell Script, Powershell, Python
+ - Kubernetes, Docker
+ - Ansible, Terrafome
  
 
 ## Career
  * MTOS Solutions / 전략기술팀 / 2017-11 ~ 2019-02
+ * NHN SOFT / 기술본부 / 인프라운영팀 / 2019-02 ~ 현재
    
- * NHN TOAST / 기술본부 / 인프라운영팀 / 2019-02 ~ 현재
-   
-  
 ## Certification 
  * AWS Solutions Architect (Amazon Web Services)
  * RHCSA (Redhet)
