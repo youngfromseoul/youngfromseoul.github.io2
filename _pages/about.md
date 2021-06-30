@@ -33,7 +33,7 @@ toc: true
  
 
 ## Career
- * MTOS Solutions / 전략기술팀 / 2017-11 ~ 2019-02
+ * MTOS Solutions / 전략기술팀 / 2016-11 ~ 2019-02
  * NHN SOFT / 기술본부 / 인프라운영팀 / 2019-02 ~ 현재
    
 ## Certification 
