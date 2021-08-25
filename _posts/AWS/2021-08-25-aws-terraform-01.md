@@ -1,5 +1,5 @@
 ---
-title: "[IaC]Terraform 사용하기 with AWS"
+title: "[IaC]Terraform 사용하기 with AWS #01"
 excerpt: "Terrafomr으로 AWS 인프라 구성하기"
 categories: 
   - AWS
