@@ -1,6 +1,6 @@
 ---
-title: "[IaC]Terraform 사용하기 with AWS #02"
-excerpt: "Terraform으로 AWS 인프라 구성하기"
+title: "[IaC]Terraform 사용하기 with AWS #03 고도화"
+excerpt: "Terraform 코드 고도화하기"
 categories: 
   - AWS
 last_modified_at: 2021-08-30T09:38:00+09:00
