@@ -12,10 +12,10 @@ toc: true
 
 ## Career
  * NHN SOFT / 기술본부 / 인프라기술팀 / 전임
-   
+ * AhnLab / 클라우드사업본부 / 클라우드서비스팀 / 사원
 ## Certification 
  * AWS Solutions Architect (Amazon Web Services)
  * RHCSA (Redhet)
  * MCP (Microsoft)
- * ISM (DELL EMC)
+ * ISM (DELL EMC원
  * DCPPE (DELL EMC)
