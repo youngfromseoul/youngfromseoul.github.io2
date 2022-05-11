@@ -2,7 +2,7 @@
 title: "[Jenkins] Jenkins 설치하기"
 excerpt: "[Jenkins] Jenkins 설치하기"
 categories: 
-  - Infra
+  - DevOps
 last_modified_at: 2020-12-15T15:47:00+09:00
 tags: 
     - Jenkins
