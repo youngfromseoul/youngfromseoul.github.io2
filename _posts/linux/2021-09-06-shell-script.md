@@ -3,8 +3,6 @@ title: "리눅스 쉘 스크립트 활용"
 excerpt: "쉘 스크립트 사용 방법"
 categories: 
   - Linux
-  - Shell
-  - Script
 last_modified_at: 2021-02-18T09:29:00+09:00
 tags: 
     - Linux
