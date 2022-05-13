@@ -1,5 +1,5 @@
 ---
-title: "[AWS] Stateful, Stateless 차이"
+title: "[Infra] Stateful, Stateless 차이"
 excerpt: "스테이트풀과 스테이트리스의 차이 알기"
 categories: 
   - Infra
