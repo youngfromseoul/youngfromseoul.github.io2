@@ -16,6 +16,7 @@ toc_sticky: true
 ---
 
 ## Stateful / Stateless
+
 * Stateful은 Client에서 요청한 정보가 세션이 종료되기 전까지 Server에 저장
 * Stateless는 Client에서 요청한 정보가 Server에 저장되지 않음
 
