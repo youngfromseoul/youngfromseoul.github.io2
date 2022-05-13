@@ -35,5 +35,5 @@ toc_sticky: true
 
 <br>
 
-* 그럼에도, 최소한의 보험으로 SWAP Memory를 설정하여 운영을 하는 경우도 있음
-* SWAP Memory 사용 시 File SWAP을 통해 여러 디스크에 분산하여 엮어서 구성 시 로드 밸런싱하여 쓰는 경우도 있음
+그럼에도, 최소한의 보험으로 SWAP Memory를 설정하여 운영을 하는 경우도 있음 <br>
+SWAP Memory 사용 시 File SWAP을 통해 여러 디스크에 분산하여 엮어서 구성 시 로드 밸런싱하여 사용도 가능
