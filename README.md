@@ -1,2 +1,1 @@
-# young-dev.com Blog 😗
-my blog.
+# youngfromseoul.github.io Blog
